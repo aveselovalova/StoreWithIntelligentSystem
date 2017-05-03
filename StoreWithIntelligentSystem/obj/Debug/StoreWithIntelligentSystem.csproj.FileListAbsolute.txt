@@ -1,0 +1,12 @@
+c:\users\student04\documents\visual studio 2015\Projects\StoreWithIntelligentSystem\StoreWithIntelligentSystem\bin\Debug\StoreWithIntelligentSystem.exe.config
+c:\users\student04\documents\visual studio 2015\Projects\StoreWithIntelligentSystem\StoreWithIntelligentSystem\bin\Debug\StoreWithIntelligentSystem.exe
+c:\users\student04\documents\visual studio 2015\Projects\StoreWithIntelligentSystem\StoreWithIntelligentSystem\bin\Debug\StoreWithIntelligentSystem.pdb
+c:\users\student04\documents\visual studio 2015\Projects\StoreWithIntelligentSystem\StoreWithIntelligentSystem\obj\Debug\StoreWithIntelligentSystem.csprojResolveAssemblyReference.cache
+c:\users\student04\documents\visual studio 2015\Projects\StoreWithIntelligentSystem\StoreWithIntelligentSystem\obj\Debug\StoreWithIntelligentSystem.exe
+c:\users\student04\documents\visual studio 2015\Projects\StoreWithIntelligentSystem\StoreWithIntelligentSystem\obj\Debug\StoreWithIntelligentSystem.pdb
+D:\prog\StoreWithIntelligentSystem\StoreWithIntelligentSystem\bin\Debug\StoreWithIntelligentSystem.exe.config
+D:\prog\StoreWithIntelligentSystem\StoreWithIntelligentSystem\obj\Debug\StoreWithIntelligentSystem.exe
+D:\prog\StoreWithIntelligentSystem\StoreWithIntelligentSystem\obj\Debug\StoreWithIntelligentSystem.pdb
+D:\prog\StoreWithIntelligentSystem\StoreWithIntelligentSystem\bin\Debug\StoreWithIntelligentSystem.exe
+D:\prog\StoreWithIntelligentSystem\StoreWithIntelligentSystem\bin\Debug\StoreWithIntelligentSystem.pdb
+D:\prog\StoreWithIntelligentSystem\StoreWithIntelligentSystem\obj\Debug\StoreWithIntelligentSystem.csprojResolveAssemblyReference.cache
